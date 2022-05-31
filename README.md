@@ -6,10 +6,15 @@
 - generate new key using artisan comand
 - modify the db configuration and app url on .env file
 - run the command 
+
     ```composer install ```
 
     ```nmp install ```
+
+    ```php artisan migrate ```
+
 - start the application using command
+
     ```php artisan serve ```
 
     ```npm run dev ```
