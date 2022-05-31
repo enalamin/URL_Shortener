@@ -1,5 +1,5 @@
-
-## project installation steps
+## This is the project for url shortener. it will take input a url and genearte a short url. when you click on short url it will redirect to orginal url.
+## Project installation steps
 
 - colne the project
 - create .env file form .env.example
@@ -13,7 +13,7 @@
 
     ```php artisan migrate ```
 
-- start the application using command
+- Start the application using command
 
     ```php artisan serve ```
 
